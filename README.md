@@ -185,7 +185,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ## 📬 Stay Updated
 
-This repo is maintained by [@yourusername](https://x.com/yourusername) on X.  
+This repo is maintained by [@Aditya_Patel108](https://x.com/Aditya_Patel108) on X.  
 Follow for daily Antigravity tips, prompt drops, and build threads.
 
 ---
